@@ -23,7 +23,7 @@ import UserProfile from "./screen/admin/UserProfile";
 import Clients from "./screen/admin/clients";
 import Login from "./screen/login";
 
-import "./app.css";
+import "./App.css";
 
 // Layout Wrapper for Authenticated Pages
 const Layout = ({ children, sidebarOpen, setSidebarOpen, isDesktop, sidebarRef, menuButtonRef, }) => (
